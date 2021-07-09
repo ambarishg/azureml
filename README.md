@@ -1,4 +1,12 @@
-# Session 1  - Recommendation Engine and Azure ML Series - Introduction to Azure ML  
+# Recommendation Engine and Azure ML Series  - Microsoft Reactor Bangalore       
+
+Code and useful links for the sessions conducted for Microsoft Reactor Bangalore Recommendation Engine and Azure ML Series         
+
+Other useful links - [My Youtube channel](https://www.youtube.com/channel/UCFgPJgsmH8u67SvvLK-tLGg)             
+
+
+
+# Session 1  -  Introduction to Azure ML  
 |  Topic  |  Description |
 |---|---|
 | Session Topic  |   This shows of how to create a model and produce inference in Azure ML and deploy in Azure Kubernetes Service         |
