@@ -35,8 +35,8 @@ Other useful links - [My Youtube channel](https://www.youtube.com/channel/UCFgPJ
 | Session Topic  |   This shows of how to build a simple recommendation engine using TFIDF and Cosine Similarity in Azure ML and deploy in Azure Kubernetes Service          |
 |  Code file | AzureML_tfidf.ipynb    |
 | Data Folder  |  recodata |   
-| Blog | [Recommendation engine using Text data ,Cosine Similarity and Word Embeddings , Azure ML](https://ambarishg.github.io/posts/recommender-career-spacy-azure/) |  
-| Video  |   [TFIDF and Cosine Similarity and Azure ML](https://www.youtube.com/watch?v=JjLREARpZ4U&t=1s) |     
+| Blog | [Recommendation engine using Text data ,Cosine Similarity and Azure ML](https://ambarishg.github.io/posts/recommender-career-spacy-azure/) |  
+| Video  |   [Video - TFIDF and Cosine Similarity and Azure ML](https://www.youtube.com/watch?v=JjLREARpZ4U&t=1s) |     
 
 # Session 4 - Recommendation engine using Text data, Cosine Similarity and word embeddings technique
  
@@ -46,8 +46,8 @@ Other useful links - [My Youtube channel](https://www.youtube.com/channel/UCFgPJ
 | Session Topic  |   We will build a recommendation engine using Text Data, Cosine Similarity and word embeddings.           |
 |  Code file | word-embeddings.ipynb ,careervillage-spacy.ipynb    |
 | Data Folder  |  recodata |   
-| Blog | [Recommendation engine using Text data ,Cosine Similarity and Word Embeddings , Azure ML](https://ambarishg.github.io/posts/recommender-career-spacy/) |  
-| Video  |   [Recommendation engine using Text data, Cosine Similarity and word embeddings technique](https://www.youtube.com/watch?v=Rg_7JcdZtbg&t=20s) |   
+| Blog | [Recommendation engine using Text data ,Cosine Similarity and Word Embeddings](https://ambarishg.github.io/posts/recommender-career-spacy/) |  
+| Video  |   [Video - Recommendation engine using Text data, Cosine Similarity and word embeddings technique](https://www.youtube.com/watch?v=Rg_7JcdZtbg&t=20s) |   
        
 # Session 5 - Recommendation engine using Text data, Cosine Similarity and word embeddings technique, Azure ML
 
@@ -59,4 +59,4 @@ Other useful links - [My Youtube channel](https://www.youtube.com/channel/UCFgPJ
 |  Code file | AzureML_recommender-spacy.ipynb     |
 | Data Folder  |  recodata |   
 | Blog | [Recommendation engine using Text data ,Cosine Similarity and Word Embeddings , Azure ML](https://ambarishg.github.io/posts/recommender-career-spacy-azure/) |  
-| Video  |   [Recommendation engine using Text data, Cosine Similarity and word embeddings technique](https://www.youtube.com/watch?v=p1lPxAKVfkk) |   
+| Video  |   [Video - Recommendation engine using Text data ,Cosine Similarity and Word Embeddings , Azure ML](https://www.youtube.com/watch?v=p1lPxAKVfkk) |   
