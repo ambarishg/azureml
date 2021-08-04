@@ -35,7 +35,7 @@ Other useful links - [My Youtube channel](https://www.youtube.com/channel/UCFgPJ
 | Session Topic  |   This shows of how to build a simple recommendation engine using TFIDF and Cosine Similarity in Azure ML and deploy in Azure Kubernetes Service          |
 |  Code file | AzureML_tfidf.ipynb    |
 | Data Folder  |  recodata |   
-| Blog | [Recommendation engine using Text data ,Cosine Similarity and Azure ML](https://ambarishg.github.io/posts/recommender-career-spacy-azure/) |  
+| Blog | [Recommendation engine using Text data ,Cosine Similarity and Azure ML](https://ambarishg.github.io/posts/recommender-career-tfidf-azure/) |  
 | Video  |   [Video - TFIDF and Cosine Similarity and Azure ML](https://www.youtube.com/watch?v=JjLREARpZ4U&t=1s) |     
 
 # Session 4 - Recommendation engine using Text data, Cosine Similarity and word embeddings technique
